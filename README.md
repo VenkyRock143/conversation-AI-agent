@@ -1,4 +1,4 @@
-# TailorTalk: Conversational AI for Booking Appointments
+# Conversational AI for Booking Appointments
 
 ### ✅ Features
 - Conversational chatbot built with FastAPI, Streamlit, and LangGraph-like logic
