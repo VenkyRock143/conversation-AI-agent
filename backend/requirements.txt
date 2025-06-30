@@ -1,0 +1,9 @@
+fastapi
+langgraph
+streamlit
+google-api-python-client
+google-auth
+google-auth-oauthlib
+uvicorn
+python-dotenv
+python-dateutil
